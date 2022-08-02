@@ -8,29 +8,27 @@ layout: page
 
 # Policy Priorities
 # Housing
-graphics:
-  - image:
-      src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/dd18dbe1-6e75-4a39-ff61-1da0eb22f200/public
-      alt: 'Bus icon'
-    title: Making Transit Accessible
-    description: I want to make it easier for all San Mateo residents to access public transit.
----
+hero:
+  image: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/bc4e8749-d08d-41cd-51fd-a035b1c91a00/public
+  callout:
+    alt: "Transit"
+    text: I'm Sergio
+  button:
+    href: /platform/
+    text: On the Issues
+  content: Running for San Mateo District 3 City Council to make a more equitable, hopeful tomorrow.
 ## Transit
 In-depth information about my stance on the issues goes here. I might want to add images and more to make my points more compelling.
 graphics:
-  - image:
-      src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/dd18dbe1-6e75-4a39-ff61-1da0eb22f200/public
-      alt: 'Bus icon'
-    title: Making Transit Accessible
-    description: I want to make it easier for all San Mateo residents to access public transit.
----
-## Education
+hero:
+  image: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/bc4e8749-d08d-41cd-51fd-a035b1c91a00/public
+  callout:
+    alt: "Transit"
+    text: I'm Sergio
+  button:
+    href: /platform/
+    text: On the Issues
+  content: Running for San Mateo District 3 City Council to make a more equitable, hopeful tomorrow.
+## Transit
 In-depth information about my stance on the issues goes here. I might want to add images and more to make my points more compelling.
 graphics:
-  - image:
-      src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/dd18dbe1-6e75-4a39-ff61-1da0eb22f200/public
-      alt: 'Bus icon'
-    title: Making Transit Accessible
-    description: I want to make it easier for all San Mateo residents to access public transit.
----
-In-depth information about my stance on the issues goes here. I might want to add images and more to make my points more compelling.
