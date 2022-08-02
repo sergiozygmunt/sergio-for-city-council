@@ -12,15 +12,17 @@
 #   links: primary
 #
 primary:
-  - text: Experience
+  - text: On the Issues
     links:
-      - text: Work Experience
+      - text: Transit
         href: /resume/#work-experience
-      - text: Certifications
+      - text: Education
         href: /experience/#certifications
-      - text: Skills
+      - text: Pollution
         href: /experience/#skills
-      - text: Groups
+      - text: Housing
+        href: /experience/#groups
+      - text: All issues
         href: /experience/#groups
   - text: Contact me
     href: /contact/

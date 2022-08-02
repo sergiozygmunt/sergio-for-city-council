@@ -1,12 +1,12 @@
 ---
-title: Platform
-description: Platform
+title: On the Issues - Sergio Zygmunt
+description: Sergio Zygmunt's standing on the issues that matter to San Mateo Most
 permalink: /platform/
 
 layout: page
 ---
 
-## Work Experience
+# Policy Priorities
 
 ### Cloudflare Inc - San Francisco, CA <br><sup>Solutions Engineer - January 2022 – Present</sup>
 
