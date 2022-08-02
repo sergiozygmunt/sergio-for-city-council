@@ -1,7 +1,7 @@
 ---
-title: Experience
-description: Sergio Zygmunt experience
-permalink: /experience/
+title: Platform
+description: Platform
+permalink: /platform/
 
 layout: page
 ---

@@ -1,12 +1,12 @@
-title: Sergio Zygmunt
-description: Sergio Zygmunt
+title: Sergio Zygmunt for San Mateo City Council
+description: Sergio Zygmunt for San Mateo City Council
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github_info:
   organization: sergiozygmunt
-  repository: sergiozygmunt.github.io
-  default_branch: master
+  repository: sergio-for-city-council
+  default_branch: main
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
