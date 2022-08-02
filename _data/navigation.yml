@@ -15,15 +15,15 @@ primary:
   - text: On the Issues
     links:
       - text: Transit
-        href: /resume/#work-experience
+        href: /on-the-issues/#transit
       - text: Education
-        href: /experience/#certifications
+        href: /on-the-issues/#education
       - text: Pollution
-        href: /experience/#skills
+        href: /on-the-issues/#pollution
       - text: Housing
-        href: /experience/#groups
+        href: /on-the-issues/#housing
       - text: All issues
-        href: /experience/#groups
+        href: /on-the-issues/
   - text: Contact me
     href: /contact/
     external: false
