@@ -15,7 +15,7 @@ hero:
   content: I'm running for City Council in San Mateo's District 3 to make a more equitable, hopeful tomorrow.
 graphics:
   - image:
-      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/dd18dbe1-6e75-4a39-ff61-1da0eb22f200/public
+      src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/dd18dbe1-6e75-4a39-ff61-1da0eb22f200/public
       alt: 'Bus icon'
     title: Making Transit Accessible
     description: I want to make it easier for all San Mateo residents to access public transit.
