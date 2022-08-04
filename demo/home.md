@@ -12,7 +12,7 @@ hero:
   button:
     href: /platform/
     text: On the Issues
-  content: Running for San Mateo District 3 City Council to make a more equitable, hopeful tomorrow.
+  content: I'm running for San Mateo District 3 City Council to make a more equitable, hopeful tomorrow.
 graphics:
   - image:
       src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/2d9e7ada-04f8-4bb2-f6ba-c31e41ca3300/uswdsgraphics
