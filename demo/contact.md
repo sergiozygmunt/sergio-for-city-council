@@ -8,19 +8,15 @@ layout: page
 ---
 
 ## How to reach me
+I always look forward to meeting citizens to learn more about what's important to them.
+
 The best way to get in touch with me is to email me.
 [sergio@sergiozygmunt.com](mailto:sergio@sergiozygmunt.com)
+You can also call my office at (650) 473-5149
 
-## GitHub
-My GitHub is [sergiozygmunt](https://github.com/sergiozygmunt){: .usa-external_link}
 
 ## Social
-My Linkedin is [Sergio Zygmunt](https://linkedin.com/in/sergiozygmunt){: .usa-external_link}
-
-## Encryption
-[Here's](https://keybase.io/sergiozygmunt){: .usa-external_link} my PGP public key. You won't need it unless you want to send me encrypted emails or files.
-
-Also, check out my [Keybase](https://keybase.io/sergiozygmunt){: .usa-external_link} to get verified links to other sites such as GitHub or Twitter.
+Follow me on [Twitter](https://twitter.com/sergiozygmunt){: .usa-external_link}
 
 ## Free and Open Source Software
 Some of the software I use in my projects (including this website) come from free and open source (FOSS) projects. I link back to the source project and license (when applicable,) and generally reply to issues opened on my repositories.

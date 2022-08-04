@@ -32,27 +32,26 @@ secondary:
   - text: Get in touch
     href: /contact/
 
-docs:
-  - text: Sidenav Navigation section
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: Sidenav Referenced section
-    links: footer
-  - text: Sidenav External link
-    href: https://18f.gsa.gov
-    external: true
+# docs:
+#   - text: Sidenav Navigation section
+#     links:
+#       - text: Demo link A
+#         href: /two/a/
+#       - text: Demo link B
+#         href: /two/b/
+#       - text: Demo link C
+#         href: /two/c/
+#   - text: Sidenav Referenced section
+#     links: footer
+#   - text: Sidenav External link
+#     href: https://18f.gsa.gov
+#     external: true
 
 footer:
-  - text: Experience
-    href: /experience/
-  - text: GitHub
-    href: https://github.com/sergiozygmunt
-    external: true
+  - text: On the Issues
+    href: /on-the-issues/
+  # - text: Meet Sergio
+  #   href: /on-the-issues/
   - text: Get in touch
     href: /contact/
     external: false
