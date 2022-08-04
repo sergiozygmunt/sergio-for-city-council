@@ -17,6 +17,3 @@ You can also call my office at (650) 473-5149
 
 ## Social
 Follow me on [Twitter](https://twitter.com/sergiozygmunt){: .usa-external_link}
-
-## Free and Open Source Software
-Some of the software I use in my projects (including this website) come from free and open source (FOSS) projects. I link back to the source project and license (when applicable,) and generally reply to issues opened on my repositories.

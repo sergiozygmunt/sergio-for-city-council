@@ -35,7 +35,7 @@ graphics:
       src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/04aec09f-ef39-48d7-3604-3f6dbdc18f00/uswdsgraphics
       alt: 'Housing'
     title: Making Housing Accessible
-    description: I want to promote mixed use development that's well connected to transit to improve housing accessability.
+    description: I want to promote mixed use development that's well connected to transit to improve access to affordable housing.
   - image:
       src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/e29ed477-b798-402e-874e-c4c2628b3300/uswdsgraphics
       alt: 'www.'
