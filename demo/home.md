@@ -10,7 +10,7 @@ hero:
     alt: "Hello"
     text: I'm Sergio
   button:
-    href: /platform/
+    href: /on-the-issues/
     text: On the Issues
   content: I'm running for San Mateo District 3 City Council to make a more equitable, hopeful tomorrow.
 graphics:
