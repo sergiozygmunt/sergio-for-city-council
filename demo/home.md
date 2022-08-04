@@ -13,6 +13,13 @@ hero:
     href: /on-the-issues/
     text: On the Issues
   content: I'm running for San Mateo District 3 City Council to make a more equitable, hopeful tomorrow.
+
+tagline: Stand with Sergio to make a more hopeful tomorrow.
+intro: |
+  San Mateo deserves a City Council member who relates to them, not a career politician.
+
+  Sergio's [policies](/on-the-issues/) are practical, fair, and equitable to make San Mateo a better place to live and work for everyone.
+
 graphics:
   - image:
       src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/2d9e7ada-04f8-4bb2-f6ba-c31e41ca3300/uswdsgraphics
