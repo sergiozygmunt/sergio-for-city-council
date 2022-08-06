@@ -32,6 +32,9 @@ primary:
   - text: Transparency
     href: /transparency/
     external: false
+  - text: FAQs
+    href: /faq/
+    external: false
   - text: Twitter
     href: https://twitter.com/sergiozygmunt
     external: true
