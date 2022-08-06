@@ -22,3 +22,6 @@ Citizens should feel comfortable at home and have the right to live free of poll
 
 ## Housing
 The future generation is dependant on safe, affordable housing. I will advocate for more mixed-use developments that encourage the use of the Peninsula's great public transit.
+
+## Public Safety
+San Mateo is already a very safe city - my campaign focuses on improving the police and community relationship. I will expand existing programs such as the Police Activity League (PAL) and will promote programs to improve the public's relationship to its police department.
