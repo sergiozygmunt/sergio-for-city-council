@@ -7,18 +7,17 @@ layout: page
 
 ---
 
-## Transit
-I believe the only way for San Mateo to prosper is to have affordable, accessible public transit for all residents. 
+Corruption thrives on secrecy - Transparency is a major campaign point for me which is why I post all materials to my campaign online for public review.
 
-Accessible public transit includes the walk to the train or the bus stop - I will work with city stakeholders to improve the "last mile" infrastructure - that is the city's sidewalks and roadways.
+## Campaign Finance
+CA FPPC Form 700 - _Statements of Economic Interests_
+Filed August 4, 2022 - Available [here](https://files.sergioforsanmateo.com/campaign-finance/Zygmunt-FPPC_Form_700-Aug-04-2022.pdf) ([Archive](https://web.archive.org/web/20220806080746/https://files.sergioforsanmateo.com/campaign-finance/Zygmunt-FPPC_Form_700-Aug-04-2022.pdf){: .usa-external_link})
 
-As City Council Member I will advocate for increasing service along our city's arterial corridors - El Camino Real (ECR)
+CA FPPC Form 410 - _Statements of Organization Recipient Committee_
+Filed August 4, 2022 - Available [here](https://files.sergioforsanmateo.com/campaign-finance/Zygmunt-FPPC_Form_410-Aug-04-2022.pdf) ([Archive](https://web.archive.org/web/20220806080929/https://files.sergioforsanmateo.com/campaign-finance/Zygmunt-FPPC_Form_410-Aug-04-2022.pdf{: .usa-external_link})
 
-## Education
-Children should be empowered to learn beyond the classroom. I will support funding for after school robotics and science programs for all kids, not just those in our city's wealthiest zip codes.
+## Personal Finance
+My 2021 income tax return (_Form 1040 and others_) is available  [here](https://files.sergioforsanmateo.com/personal-finance/Zygmunt-Tax_Return_2021-Redacted.pdf) ([Archive](https://web.archive.org/web/20220806080414/https://files.sergioforsanmateo.com/personal-finance/Zygmunt-Tax_Return_2021-Redacted.pdf){: .usa-external_link})
 
-## Pollution
-Citizens should feel comfortable at home and have the right to live free of pollution. I'll step up enforcement of existing city code to put an end to abuse of our environment by greedy businesses.
-
-## Housing
-The future generation is dependant on safe, affordable housing. I will advocate for more mixed-use developments that encourage the use of the Peninsula's great public transit.
+## About Archive Links
+Links that are labelled "Archive" are stored in the Internet Archive's Wayback Machine. This is to ensure that a true copy is always available, even if it were to be changed on this site or if this site were to go offline (for example, at the end of the campaign).

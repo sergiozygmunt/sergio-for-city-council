@@ -27,6 +27,12 @@ primary:
   - text: Contact me
     href: /contact/
     external: false
+  - text: Transparency
+    href: /transparency/
+    external: false
+  - text: Twitter
+    href: https://twitter.com/sergiozygmunt
+    external: true
 
 secondary:
   - text: Get in touch
