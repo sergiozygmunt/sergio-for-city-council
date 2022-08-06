@@ -13,7 +13,7 @@ Corruption thrives on secrecy - Transparency is a major campaign point for me wh
 CA FPPC Form 700 - _Statements of Economic Interests_
 Filed August 4, 2022 - Available [here](https://files.sergioforsanmateo.com/campaign-finance/Zygmunt-FPPC_Form_700-Aug-04-2022.pdf) ([Archive](https://web.archive.org/web/20220806080746/https://files.sergioforsanmateo.com/campaign-finance/Zygmunt-FPPC_Form_700-Aug-04-2022.pdf){: .usa-external_link})
 
-CA FPPC Form 410 - _Statements of Organization Recipient Committee_
+CA FPPC Form 410 - _Statement of Organization Recipient Committee_
 Filed August 4, 2022 - Available [here](https://files.sergioforsanmateo.com/campaign-finance/Zygmunt-FPPC_Form_410-Aug-04-2022.pdf) ([Archive](https://web.archive.org/web/20220806080929/https://files.sergioforsanmateo.com/campaign-finance/Zygmunt-FPPC_Form_410-Aug-04-2022.pdf{: .usa-external_link})
 
 ## Personal Finance
