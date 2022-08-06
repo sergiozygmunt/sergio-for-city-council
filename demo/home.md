@@ -40,7 +40,7 @@ graphics:
       src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/e29ed477-b798-402e-874e-c4c2628b3300/uswdsgraphics
       alt: 'www.'
     title: Promoting Science Education
-    description: I want to add more more extra curricular programs to get our next generation excited for science and engineering.
+    description: I want to add more extra curricular programs to get our next generation excited for science and engineering.
 
 ---
 ## Get in touch!
