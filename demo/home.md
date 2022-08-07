@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/eb09b973-6aeb-40f2-c108-575eb2ce2900/public
+  image: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/eb09b973-6aeb-40f2-c108-575eb2ce2900/unlimited
   callout:
     alt: "Hello"
     text: I'm Sergio
