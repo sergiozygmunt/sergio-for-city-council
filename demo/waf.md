@@ -2,6 +2,7 @@
 title: Attention required!
 description: Attention required!
 permalink: /waf/
+sitemap: false
 
 layout: page
 
