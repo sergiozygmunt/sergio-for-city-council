@@ -42,3 +42,8 @@ remote_theme: 18F/uswds-jekyll
 # Compress Sass
 sass:
   style: compressed
+
+# Jekyll Site Map
+url: "https://sergioforsanmateo.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
