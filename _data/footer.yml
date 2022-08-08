@@ -65,7 +65,7 @@ contact:
   heading: <nbsp>
 # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: <!--sse-->(650) 473-5149<!--/sse-->
-      href: <!--sse-->tel:+16504735149<!--/sse-->
+    - text: (650) 473-5149
+      href: tel:+16504735149
     - text: sergio@sergiozygmunt.com
       href: mailto:sergio@sergiozygmunt.com

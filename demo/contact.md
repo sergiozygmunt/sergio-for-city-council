@@ -11,9 +11,9 @@ layout: page
 I always look forward to meeting citizens to learn more about what's important to them.
 
 The best way to get in touch with me is to email me.
-[<!--sse-->sergio@sergiozygmunt.com<!--/sse-->](<!--sse-->mailto:sergio@sergiozygmunt.com<!--/sse-->)
+[sergio@sergiozygmunt.com](mailto:sergio@sergiozygmunt.com)
 
-You can also call my office at [<!--sse-->(650) 473-5149<!--/sse-->](<!--sse-->callto:+16504735149<!--/sse-->)
+You can also call my office at [(650) 473-5149](callto:+16504735149)
 
 ## Social
 Follow me on [Twitter](https://twitter.com/sergiozygmunt){: .usa-external_link}
