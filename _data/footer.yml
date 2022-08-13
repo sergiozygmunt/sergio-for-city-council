@@ -33,6 +33,7 @@ big_footer_signup_form: false
 
 # Configuration for footer heading. (optional)
 heading: Sergio Zygmunt
+secondary: FPPC 1451353
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
@@ -69,4 +70,3 @@ contact:
       href: tel:+16504735149
     - text: sergio@sergiozygmunt.com
       href: mailto:sergio@sergiozygmunt.com
-    - text: FPPC 1451353
