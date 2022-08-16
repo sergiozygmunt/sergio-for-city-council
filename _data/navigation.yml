@@ -63,6 +63,12 @@ footer:
     href: /on-the-issues/
   # - text: Meet Sergio
   #   href: /on-the-issues/
+  - text: Transparency
+    href: /transparency/
+    external: false
+  - text: Election security
+    href: /election-security/
+    external: false
   - text: Get in touch
     href: /contact/
     external: false
