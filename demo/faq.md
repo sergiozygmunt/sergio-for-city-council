@@ -15,7 +15,7 @@ My policies are posted [here](/on-the-issues), but if there's _any_ issue you do
 I will update my websites with new policy positions as they become available.
 
 ## What political party is this campaign?
-The office of City Council Member is non-partisan, so this campaign is non-partisan. We believe that running on a non-partisan platform bring together all voters to accomplish great things for our District. Additionally, Sergio is not part of - and has never been part of - a political party. 
+The office of City Council Member is non-partisan, so this campaign is non-partisan. We believe that running on a non-partisan platform bring together all voters to accomplish great things for our District.
 
 ## How can I see campaign finance data?
 All documents relating to campaign finance are online at the [transparency page](/transparency). Most documents remain completely un-redacted. Some documents are partially redacted to protect social security numbers, bank account numbers, home addresses of campaign staff (but not the candidate,) and signatures to prevent fraud.
