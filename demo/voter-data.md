@@ -28,9 +28,9 @@ Alost every campaign consumes and processes copious amounts of voter data, but v
 # Tables
 ## Standard
 
-| Document title  | Description  | Year |
+| Provider  | Product Name  | Data Stored |
 |---|---|---|
-| Declaration of Independence  | Statement adopted by the Continental Congress declaring independence from the British Empire. | 1776 |
+| Google Cloud Platform  | BigQuery | All county-level voter information  |
 |  Bill of Rights | The first ten amendments of the U.S. Constitution guaranteeing rights and freedoms. | 1791 |
 | Declaration of Sentiments  | A document written during the Seneca Falls Convention outlining the rights that American women should be entitled to as citizens. | 1848 |
 | Emancipation Proclamation  | An executive order granting freedom to slaves in designated southern states. | 1863 |
