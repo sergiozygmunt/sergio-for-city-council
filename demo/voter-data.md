@@ -26,4 +26,4 @@ Almost every campaign consumes and processes copious amounts of voter data, but 
 | Lob.com Inc   | Lob Print and Mail | Postal mailing-related records |
 
 ## About County Voter Data
-One of the primary places we get voter data is from the County of San Mateo. We are very limited in our use of the data, but we do publish [which column headers we do use](https://files.sergioforsanmateo.com/data-transparency/county-voter-data/county-voter-file-column-headers.txt).
+One of the primary places we get voter data is from the County of San Mateo. Our campaign is very limited in our use of the data, but we do publish [which column headers we do use](https://files.sergioforsanmateo.com/data-transparency/county-voter-data/county-voter-file-column-headers.txt). _Our campaign will never publish protected voter data, nor will we ever sell, rent, or trade voter data._
