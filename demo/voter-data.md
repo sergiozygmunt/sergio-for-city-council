@@ -8,7 +8,7 @@ layout: page
 ---
 
 ## Your data - our responsibility
-Alost every campaign consumes and processes copious amounts of voter data, but very few disclose where they store the data and what they do with it. Our campaign wants to be transparent with where we keep voter data and what we do with it. You can also learn about [how we secure your data](/election-security).
+Almost every campaign consumes and processes copious amounts of voter data, but very few disclose where they store the data and what they do with it. Our campaign wants to be transparent with where we keep voter data and what we do with it. You can also learn about [how we secure your data](/election-security).
 
 # Data Processors
 
@@ -24,3 +24,6 @@ Alost every campaign consumes and processes copious amounts of voter data, but v
 | Github Inc  | Github Cloud | This system does not store voter information but SQL queries may be stored in data files hosted by this system. Additionally, records pertaining to Sergio Zygmunt (filings) are stored in this system. |
 | Gaglers, Inc  | CallHub | Voter phone and SMS outreach data |
 | Lob.com Inc   | Lob Print and Mail | Postal mailing-related records |
+
+## About County Voter Data
+One of the primary places we get voter data is from the County of San Mateo. We are very limited in our use of the data, but we do publish [which column headers we do use](https://files.sergioforsanmateo.com/data-transparency/county-voter-data/county-voter-file-column-headers.txt).
