@@ -15,7 +15,7 @@ Alost every campaign consumes and processes copious amounts of voter data, but v
 |---|---|---|
 | Google Cloud Platform  | BigQuery | All county-level voter information |
 | Google LLC | Google Workspace | Processed and unprocessed voter lists <br> Call sheets <br> Email communications |
-| Raintank Inc d/b/a Grafana Labs | Grafana Cloud | All county-level voter information 
+| Raintank Inc d/b/a Grafana Labs | Grafana Cloud | All county-level voter information |
 | Cisco Systems Inc | Cisco Webex Cloud | Phone call records for calls with voters |
 | Cloudflare Inc | Cloudflare Access | This system is not designed to store voter data but voter records may be incidentally stored in SSO access logs |
 | Cloudflare Inc | Cloudflare Pages | Records pertaining to Sergio Zygmunt (filings) are stored in this system. |
