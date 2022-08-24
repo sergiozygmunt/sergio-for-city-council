@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Sergio Zygmunt for San Mateo District 3 City Council
 permalink: /
 
 layout: home
