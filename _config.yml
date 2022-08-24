@@ -40,6 +40,8 @@ anchor_js_targets: [h1, h2, h3, h4, h5, h6]
 remote_theme: 18F/uswds-jekyll
 
 author:
+  name: Sergio Zygmunt
+  url: https://sergiozygmunt.com
   twitter: sergiozygmunt
 
 # Compress Sass
