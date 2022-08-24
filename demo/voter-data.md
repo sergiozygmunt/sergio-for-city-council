@@ -14,8 +14,8 @@ Alost every campaign consumes and processes copious amounts of voter data, but v
 |             Provider            | Product Name       | Data Stored                                                                                                                                                                                             |
 |:-------------------------------:|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Google Cloud Platform           | BigQuery           | All county-level voter information                                                                                                                                                                      |
-| Google LLC                      | Google Workspace   | Processed and unprocessed voter lists <br>Call sheets <br>Email communications                                                                                                                          |
-| Raintank Inc d/b/a Grafana Labs | Grafana Cloud      | All county-level voter information                                                                                                                                                                      |
+|                      |    | Processed and unprocessed voter lists <br>Call sheets <br>Email communications                                                                                                                          |
+|  |       |                                                                                                                                                                    |
 | Cisco Systems Inc               | Cisco Webex Cloud  | Phone call records for calls with voters                                                                                                                                                                |
 | Cloudflare Inc                  | Cloudflare Access  | This system is not designed to store voter data but voter records may be incidentally stored in SSO access logs                                                                                         |
 | Cloudflare Inc                  | Cloudflare Pages   | Records pertaining to Sergio Zygmunt (filings) are stored in this system.                                                                                                                               |
@@ -25,12 +25,11 @@ Alost every campaign consumes and processes copious amounts of voter data, but v
 | Lob.com Inc                     | Lob Print and Mail | Postal mailing-related records                                                                                                                                                                          |
 
 
-# Tables
-## Standard
+# Data Processors
 
 | Provider  | Product Name  | Data Stored |
 |---|---|---|
 | Google Cloud Platform  | BigQuery | All county-level voter information  |
-|  Bill of Rights | The first ten amendments of the U.S. Constitution guaranteeing rights and freedoms. | 1791 |
-| Declaration of Sentiments  | A document written during the Seneca Falls Convention outlining the rights that American women should be entitled to as citizens. | 1848 |
+| Google LLC  | Google Workspace | Processed and unprocessed voter lists, Call sheets; Email communications |
+| Raintank Inc d/b/a Grafana Labs  | Grafana Cloud | All county-level voter information |
 | Emancipation Proclamation  | An executive order granting freedom to slaves in designated southern states. | 1863 |
