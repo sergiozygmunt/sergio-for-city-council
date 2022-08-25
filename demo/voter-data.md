@@ -24,6 +24,7 @@ Almost every campaign consumes and processes copious amounts of voter data, but 
 | Github Inc  | Github Cloud | This system does not store voter information but SQL queries may be stored in data files hosted by this system. Additionally, records pertaining to Sergio Zygmunt (filings) are stored in this system. |
 | Gaglers, Inc  | CallHub | Voter phone and SMS outreach data |
 | Lob.com Inc   | Lob Print and Mail | Postal mailing-related records |
+| ActBlue LLC   | ActBlue Platform | Voter donation management |
 
 ## About County Voter Data
 One of the primary places we get voter data is from the County of San Mateo. Our campaign is very limited in our use of the data, but we do publish [which column headers we do use](https://files.sergioforsanmateo.com/data-transparency/county-voter-data/county-voter-file-column-headers.txt). _Our campaign will never publish protected voter data, nor will we ever sell, rent, or trade voter data._
