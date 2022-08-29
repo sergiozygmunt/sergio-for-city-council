@@ -30,8 +30,13 @@ primary:
     href: /contact/
     external: false
   - text: Transparency
-    href: /transparency/
-    external: false
+    links:
+      - text: Campaign Transparency
+        href: /transparency/
+      - text: Voter data
+        href: /voter-data/
+      - text: Election security
+        href: /election-security/
   - text: FAQs
     href: /faq/
     external: false
@@ -42,6 +47,9 @@ primary:
 secondary:
   - text: Get in touch
     href: /contact/
+  - text: Donate
+    href: https://secure.actblue.com/donate/sergiozygmunt
+    external: true
 
 # docs:
 #   - text: Sidenav Navigation section
