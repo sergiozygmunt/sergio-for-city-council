@@ -20,9 +20,7 @@ intro: |
   San Mateo deserves a City Council member who relates to them, not a career politician.
 
   Sergio's [policies](/on-the-issues/) are practical, fair, and equitable to make San Mateo a better place to live and work for everyone.
-button:
-  href: https://secure.actblue.com/donate/sergiozygmunt
-  text: Contribute
+  <button onclick="location.href='https://secure.actblue.com/donate/sergiozygmunt'" class="">Donate</button>
 
 graphics:
   - image:
