@@ -26,6 +26,7 @@ Almost every campaign consumes and processes copious amounts of voter data, but 
 | Lob.com Inc   | Lob Print and Mail | Postal mailing-related records |
 | ActBlue LLC   | ActBlue Platform | Voter donation management |
 | PowerSerg Information Services   | PowerSerg InformX | Voter data for voters registered in other jurisdictions |
+| PowerSerg Information Services   | PowerSerg Data Enrichment Suite Civic Edition (DeS-C) | Voter data corrections/updates |
 | Salesforce, Inc   | Salesforce.com | All county-level and campaign-generated voter information |
 
 ## About County Voter Data
