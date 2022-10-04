@@ -6,7 +6,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/eb09b973-6aeb-40f2-c108-575eb2ce2900/unlimited
+  image: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/49dfabb3-fce2-4ab8-0f83-b4e76097c900/unlimited
   callout:
     alt: "Hello"
     text: I'm Sergio
@@ -24,23 +24,23 @@ intro: |
 
 graphics:
   - image:
-      src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/2d9e7ada-04f8-4bb2-f6ba-c31e41ca3300/uswdsgraphics
+      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/df0e7766-3dfe-46d3-5ce2-ddfcfe746700/uswdsgraphics
       alt: 'Train icon'
     title: Making Transit Accessible
     description: I want to make it easier for all San Mateo residents to access public transit.
   - image:
-      src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/4f684ac6-31a0-44da-514b-43d469c21600/uswdsgraphics
+      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/9aa8cb2c-766d-47e8-575d-1a9ff0e34d00/uswdsgraphics
       alt: 'Earth icon'
     title: Reducing Business Pollution
     description: I want to make San Mateo a cleaner place to raise a family.
   - image:
-      src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/04aec09f-ef39-48d7-3604-3f6dbdc18f00/uswdsgraphics
+      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/b4cf3f19-a8c5-4b3c-5348-712818202700/uswdsgraphics
       alt: 'Housing'
     title: Making Housing Accessible
     description: I want to promote mixed use development that's well connected to transit to improve access to affordable housing.
   - image:
-      src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/e29ed477-b798-402e-874e-c4c2628b3300/uswdsgraphics
-      alt: 'www.'
+      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/a87b7962-1716-4bac-d32d-8cd5b0ccd400/uswdsgraphics
+      alt: 'Science Education'
     title: Promoting Science Education
     description: I want to add more extra curricular programs to get our next generation excited for science and engineering.
 
