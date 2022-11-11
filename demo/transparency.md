@@ -53,7 +53,7 @@ Housing Action Coalition - _Questionnaire_
 Submitted August 26, 2022 - Available [here](https://files.sergioforsanmateo.com/endorsement-questionnaires/HousingActionCoalition-Questionnaire.pdf) ([Archive](https://web.archive.org/web/20221111073018/https://files.sergioforsanmateo.com/endorsement-questionnaires/HousingActionCoalition-Questionnaire.pdf){: .usa-external_link})
 
 Seamless Bay Area - _Transportation Questionnaire_
-Submitted September 9, 2022 - Available [here](https://files.sergioforsanmateo.com/endorsement-questionnaires/SeamlessBayArea-Transportation-Questionnaire.pdf) ([Archive](https://web.archive.org/web/20221111073033/https://files.sergioforsanmateo.com/endorsement-questionnaires/SeamlessBayArea-Transportation-Questionnaire.pdf){: .usa-external_link})
+Submitted September 14, 2022 - Available [here](https://files.sergioforsanmateo.com/endorsement-questionnaires/SeamlessBayArea-Transportation-Questionnaire.pdf) ([Archive](https://web.archive.org/web/20221111073033/https://files.sergioforsanmateo.com/endorsement-questionnaires/SeamlessBayArea-Transportation-Questionnaire.pdf){: .usa-external_link})
 
 Sierra Club Loma Prieta Chapter - _City Council Candidate Questionnaire_
 Submitted August 24, 2022 - Available [here](https://files.sergioforsanmateo.com/endorsement-questionnaires/SierraClub-SCLP-Questionnaire.pdf) ([Archive](https://web.archive.org/web/20220806080929/https://files.sergioforsanmateo.com/endorsement-questionnaires/SierraClub-SCLP-Questionnaire.pdf){: .usa-external_link})
