@@ -22,12 +22,19 @@ Almost every campaign consumes and processes copious amounts of voter data, but 
 | Cloudflare Inc   | Cloudflare Pages | Records pertaining to Sergio Zygmunt (filings) are stored in this system. |
 | Okta Inc  | Okta | This system is not designed to store voter data but voter records may be incidentally stored in SSO access logs. |
 | Github Inc  | Github Cloud | This system does not store voter information but SQL queries may be stored in data files hosted by this system. Additionally, records pertaining to Sergio Zygmunt (filings) are stored in this system. |
-| Gaglers, Inc  | CallHub | Voter phone and SMS outreach data |
 | Lob.com Inc   | Lob Print and Mail | Postal mailing-related records |
 | ActBlue LLC   | ActBlue Platform | Voter donation management |
+
+
+# Approved Data Processors
+These are data processors that were approved by the campaign to store voter data, but are not currently in use as of this page's commit date.
+
+| Provider  | Product Name  | Data Stored |
+|---|---|---|
+| Gaglers, Inc  | CallHub | Voter phone and SMS outreach data |
+| Salesforce, Inc   | Salesforce.com | All county-level and campaign-generated voter information |
 | PowerSerg Information Services   | PowerSerg InformX | Voter data for voters registered in other jurisdictions |
 | PowerSerg Information Services   | PowerSerg Data Enrichment Suite Civic Edition (DeS-C) | Voter data corrections/updates |
-| Salesforce, Inc   | Salesforce.com | All county-level and campaign-generated voter information |
 
 ## About County Voter Data
 One of the primary places we get voter data is from the County of San Mateo. Our campaign is very limited in our use of the data, but we do publish [which column headers we do use](https://files.sergioforsanmateo.com/data-transparency/county-voter-data/county-voter-file-column-headers.txt). _Our campaign will never publish protected voter data, nor will we ever sell, rent, or trade voter data._
