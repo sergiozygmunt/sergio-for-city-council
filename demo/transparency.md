@@ -33,9 +33,6 @@ FPPC 1451353
 |---|---|---|
 | Adam Loraine   | San Mateo, CA | $99.00 |
 
-
-## About
-
 ## Personal Finance
 My 2021 income tax return (_Form 1040 and others_) is available  [here](https://files.sergioforsanmateo.com/personal-finance/Zygmunt-Tax_Return_2021-Redacted.pdf) ([Archive](https://web.archive.org/web/20220806080414/https://files.sergioforsanmateo.com/personal-finance/Zygmunt-Tax_Return_2021-Redacted.pdf){: .usa-external_link})
 
