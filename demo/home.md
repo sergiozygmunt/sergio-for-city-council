@@ -15,7 +15,7 @@ hero:
     text: On the Issues
   content: I'm running for San Mateo District 3 City Council to make a more equitable, hopeful tomorrow.
 
-tagline: Stand with Sergio to make a more hopeful tomorrow.<br><button onclick="location.href='https://secure.actblue.com/donate/sergiozygmunt'" class="">Donate</button>
+tagline: Stand with Sergio to make a more hopeful tomorrow.<br><button onclick="location.href='https://sergioforsanmateo.com/donate'" class="">Donate</button>
 intro: |
   San Mateo deserves a City Council member who relates to them, not a career politician.
 

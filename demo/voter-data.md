@@ -20,8 +20,8 @@ Almost every campaign consumes and processes copious amounts of voter data, but 
 | Cisco Systems Inc  | Cisco Webex Cloud | Phone call records for calls with voters |
 | Cloudflare Inc   | Cloudflare Access | This system is not designed to store voter data, but voter records may be incidentally stored in SSO access logs |
 | Cloudflare Inc   | Cloudflare Pages | Records pertaining to Sergio Zygmunt (filings) are stored in this system. |
-| Okta Inc  | Okta | This system is not designed to store voter data but voter records may be incidentally stored in SSO access logs. |
-| Github Inc  | Github Cloud | This system does not store voter information but SQL queries may be stored in data files hosted by this system. Additionally, records pertaining to Sergio Zygmunt (filings) are stored in this system. |
+| Okta Inc  | Okta | This system is not designed to store voter data, but voter records may be incidentally stored in SSO access logs. |
+| Github Inc  | Github Cloud | This system does not store voter information, but SQL queries may be stored in data files hosted by this system. Additionally, records pertaining to Sergio Zygmunt (filings) are stored in this system. |
 | Lob.com Inc   | Lob Print and Mail | Postal mailing-related records |
 | ActBlue LLC   | ActBlue Platform | Voter donation management |
 

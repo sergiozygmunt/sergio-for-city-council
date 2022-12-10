@@ -22,7 +22,7 @@ A lot of people don't recognize the role individual candidates (and their commit
 ### Some of the things our campaign is doing 
 + Encrypting persistent storage where voter data is stored.
 + Requiring hardware-based (FIDO 2) multi factor authentication into all systems that contain voter or campaign information. We require security keys (Yubikeys) because they make it next to impossible to phish campaign team members.
-+ Use branch protection on all Git repositories (including the build repository for this site) to ensure that all Git Commits are signed.
++ Use branch protection on all Git repositories (including the build repository for this site) to ensure that all Git commits are signed.
 + Proactively archive this website (and documents posted on it) in the WayBack Machine to ensure the integrity of the site isn't compromised if it goes offline in the future.
 
 ### What information do we store?
