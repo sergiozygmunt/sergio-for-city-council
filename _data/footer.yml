@@ -65,8 +65,8 @@ contact:
   heading: <nbsp>
 # Configuration for contact links for email, phone, etc...
   contact_links:
-  #  - text: (650) 473-5149
-  #    href: tel:+16504735149
+  #  - text: removed
+  #    href: tel:+10000000000
     - text: sergio@sergiozygmunt.com
       href: mailto:sergio@sergiozygmunt.com
     - text: FPPC 1451353
